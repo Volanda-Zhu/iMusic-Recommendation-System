@@ -1,1 +1,1 @@
-# uMusic-Recommendation-System
+# iMusic-Recommendation-System
